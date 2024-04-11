@@ -1,5 +1,10 @@
 const Navbar = () => {
-  return <div>navbar seregi</div>;
+  return(
+    <>
+    <div>seregi я сделал сдесь правки</div>
+    </>
+    
+  )
 };
 
 export default Navbar;
